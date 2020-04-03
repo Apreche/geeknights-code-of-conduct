@@ -42,8 +42,8 @@ Many of the places this code applies are third party platforms that have their o
 The Code
 ########
 
-I can't think of what to call this rule
-***************************************
+Engage with the Community
+*************************
 
 A person who wishes to participate in our spaces, must have an honest desire to be a member of the community. A person must exhibit behaviors such as actively listening and making meaningful contributions. For example: A person who only comes into the community space for the purpose of self promotion is not trying to actually trying to join it. 
 
