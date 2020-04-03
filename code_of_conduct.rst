@@ -61,9 +61,10 @@ Example: Claiming something is a miracle cancer cure is dangerous information as
 
 Do Not Espouse Evil Ideologies
 ******************************
-There are too many evil idologies in the world. Almost all of them have one thing in common in that they do not respect the equal value of all human life. Any person who adheres to or promotes ideas that are in line with any of these belief systems, and others not listed, is absolutely unwelcome in our community.
+There are too many evil idologies in the world. Almost all of them have one thing in common in that they do not respect the equal value of all human life. Any person who adheres to or promotes ideas that are in line with any of these belief systems, and others not listed, is absolutely unwelcome in our community. This specifically includes the American Republican Party.
 
 * Racism
+* Fascism
 * Misogyny
 * Homophobia
 * Transphobia
@@ -89,7 +90,7 @@ Any person who engages in any form of harassment against any other person is abs
 Do Not Advocate Violence or Other Immoral Acts
 **********************************************
 
-Do not advocate for or encourage other people to engage in violent or immoral activities. Likewise, do not wish for harm to befall others, even if you believe they might deserve it. In keeping with the rule of always engaging in good faith, this should not be done even facetiously. 
+Do not advocate for or encourage other people to engage in violent or immoral activities. Likewise, do not wish for specific harm to befall others, even if you believe they might deserve it. In keeping with the rule of always engaging in good faith, this should not be done even facetiously. 
 
 Do Not Endanger the Community or its Members
 ********************************************
@@ -101,16 +102,16 @@ As a member of the community, a person's behavior reflects on all the other memb
 Argument and Debate Must be Constructive
 ****************************************
 
-We recognize that rguments and debates are an unavoidable and necesasry part of any community. They can even be fun under the right circumstances. However, when they are not productive, they devolve into flamewars. If there is a debate, all contributors should take care to reference the following image:
+We recognize that arguments and debates are an unavoidable and necesasry part of any community. They can even be fun under the right circumstances. However, when they are not productive, they devolve into flamewars. If there is a debate, all contributors should take care to reference the following image:
 
 .. image:: https://i.imgur.com/91pnuhY.png
 
 Anyone participating in a healthy and constructive debate must always stay in the top three segments of the pyramid. Arguments that stray into to the bottom of the pyramid will not be tolerated.
 
-Put Warnings on All Potentially Sensitive Content
+Put Warnings on Potentially Sensitive Content
 *************************************************
 
-Some content that is permitted in our community may be potentially disturbing, triggering, or simply unwanted by other members of the community. This could be for a wide variety of reasons. Sexual content may be not safe for work. A particular video with strobing lights might not be safe for someone with epilepsy to watch. All such content should be shared with appropriate warnings, spoiler tags, etc. so that no other community member will run into an unwelcome surprise.
+Some content that is permitted in our community may be potentially disturbing, triggering, or simply unwanted by other members of the community. This could be for a wide variety of reasons. Sexual content may be not safe for work. A particular video with strobing lights might not be safe for someone with epilepsy to watch. All such content should be shared with appropriate warnings, spoiler tags, etc. so that no other community member will run into an unwelcome surprise. All unwarned/non-spoilered content should be roughly at the level acceptable in public places at a convention like the Penny Arcade Expo.
 
 Spoilers
 ========
