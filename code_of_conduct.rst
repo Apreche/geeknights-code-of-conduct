@@ -90,7 +90,7 @@ Any person who engages in any form of harassment against any other person is abs
 Do Not Advocate Violence or Other Immoral Acts
 **********************************************
 
-Do not advocate for or encourage other people to engage in violent or immoral activities. Likewise, do not wish for specific harm to befall others, even if you believe they might deserve it. In keeping with the rule of always engaging in good faith, this should not be done even facetiously. 
+Do not advocate for or encourage other people to engage in violent or immoral activities. Likewise, do not wish for specific harm to befall others, even if you believe they might deserve it. In keeping with the rule of always engaging in good faith, this should not be done, even in a facetious manner. 
 
 Do Not Endanger the Community or its Members
 ********************************************
