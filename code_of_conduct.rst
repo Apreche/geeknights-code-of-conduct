@@ -55,9 +55,29 @@ All community engagement must be in good faith. This means that at no time shoul
 Do Not Share Dangerously Misleading Information
 ***********************************************
 
-Some information can be dangerous, as it will affect the decisions made by other people who hear it and believe it. Those decisions could result in harm for them and others. In plain English, this means no fake news. Even if some dangerous information turns out to be factual, we will not permit it to be shared in our spaces until there is sufficient evidence to support its veracity. 
+Some information can be dangerous, as it will affect the decisions made by other people who hear it and believe it. Those decisions could result in harm for them and others. In plain English, this means no fake news, fake medicine, or other assorted pseudoscience. We will not permit it to be shared in our spaces unless there is sufficient evidence from trusted sources to support its veracity. 
 
-Example: Claiming something is a miracle cancer cure is dangerous information as it may lead people suffering from cancer to forgo effective treatments in favor of unproven ones that result in negative health outcomes. If that miracle cure for cancer does truly exist, and we hope it does, there needs to be very strong evidence that it is medically effective and viable before we will allow it to be promoted in our community.
+Examples of dangerous pseudoscience include:
+
+* Homeopathy
+* Naturopathy
+* Chiropractic
+* Osteopathy
+* Reflexology
+* Moxibustion
+* Astrology
+* Paranormal Research
+* Faith Healing
+* Acupuncture / Acupressure
+* etc...
+
+Examples of fake news include:
+
+* Deep Fakes
+* Altered Tweets
+* Unverified "News" 
+* Misleading Headlines / Buried Ledes
+* Conspiratorial Bullshit
 
 Do Not Espouse Evil Ideologies
 ******************************
@@ -68,12 +88,18 @@ There are too many evil ideologies in the world. Almost all of them have one thi
 * Misogyny
 * Homophobia
 * Transphobia
-
-Membership in, or advocacy for any group or organization that espouses such evil ideologies is also strictly prohibited. This specifically includes the American Republican Party, all [SPLC designated hate groups](https://www.splcenter.org/fighting-hate/extremist-files/groups), and many others not listed here.
 * Ableism
 * Antisemitism
 * Islamophobia
-* etc.
+* etc...
+
+Membership in, or advocacy for any group or organization that espouses such evil ideologies is also strictly prohibited. This specifically includes the American Republican Party, all [SPLC designated hate groups](https://www.splcenter.org/fighting-hate/extremist-files/groups), and many others not listed here.
+
+
+Do Not Send Traffic to Evil People
+**********************************
+There are plenty of perfectly fine web sites, sources, and people in the world. Do not link to or otherwise cite web sites known to traffic in fake news, pseudoscience, or any of the things listed above. If the information you wish to cite is truly valid, you should be able to find a real citation from a trusted source. We will not list examples of poor sources to avoid even the most remote possibility that someone will visit them.
+
 
 Absolutely No Harassment
 ************************
