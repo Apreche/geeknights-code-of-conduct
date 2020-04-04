@@ -61,13 +61,15 @@ Example: Claiming something is a miracle cancer cure is dangerous information as
 
 Do Not Espouse Evil Ideologies
 ******************************
-There are too many evil idologies in the world. Almost all of them have one thing in common in that they do not respect the equal value of all human life. Any person who adheres to or promotes ideas that are in line with any of these belief systems, and others not listed, is absolutely unwelcome in our community. This specifically includes the American Republican Party.
+There are too many evil ideologies in the world. Almost all of them have one thing in common in that they do not respect the equal value of all human life. Any person who adheres to or promotes ideas that are in line with any of these belief systems, and others not listed, is absolutely unwelcome in our community. 
 
 * Racism
 * Fascism
 * Misogyny
 * Homophobia
 * Transphobia
+
+Membership in, or advocacy for any group or organization that espouses such evil ideologies is also strictly prohibited. This specifically includes the American Republican Party, all [SPLC designated hate groups](https://www.splcenter.org/fighting-hate/extremist-files/groups), and many others not listed here.
 * Ableism
 * Antisemitism
 * Islamophobia
