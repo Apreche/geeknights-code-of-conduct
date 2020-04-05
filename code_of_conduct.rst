@@ -50,7 +50,7 @@ A person who wishes to participate in our spaces, must have an honest desire to 
 Always Engage in Good Faith
 ***************************
 
-All community engagement must be in good faith. This means that at no time should a person share information or promote ideas that they themselves do not honestly believe. Sarcasm and facetiousness is often lost from language, especially online in text form. That usually leads to misudnerstandings, often harmful ones. A good community member exhibits honesty, only staing what they believe to be truthful to the best of their knowledge.
+All community engagement must be in good faith. This means that at no time should a person share information or promote ideas that they themselves do not honestly believe. Sarcasm and facetiousness is often lost from language, especially online in text form. That usually leads to misunderstandings, often harmful ones. A good community member exhibits honesty, only stating what they believe to be truthful to the best of their knowledge.
 
 Do Not Share Dangerously Misleading Information
 ***********************************************
