@@ -125,7 +125,7 @@ Do Not Endanger the Community or its Members
 
 As a member of the community, a person's behavior reflects on all the other members. Any behavior that could put other community members, or the community itself, in danger is striclty prohibited. The most common example would be to do something that draws unwanted negative attention to the community or its members. 
 
-> *We recognize that anything that violates this rule will also likely violate at least one of the other rules, e.g.: advocating immoral acts is also likely to endanger the community. That doesn't mean this rule is redundant. It exists to emphasize the extreme seriousness of acts that violate this rule as well as others.*
+    *We recognize that anything that violates this rule will also likely violate at least one of the other rules, e.g.: advocating immoral acts is also likely to endanger the community. That doesn't mean this rule is redundant. It exists to emphasize the extreme seriousness of acts that violate this rule as well as others.*
 
 Argument and Debate Must be Constructive
 ****************************************
@@ -155,7 +155,7 @@ Reporting
 
 Moderators and community leaders are always on the lookout for violations of this code. If they see any, they will take action accordingly. However, not everyone can be aware of everything. If any community member sees what they believe to be a violation of this code, please report it to community leadership. If the platform on which the violation ocurred has a reporting mechanism, please use it as appropriate. Otherwise, any code violations may be reported to us via email at codeofconduct@frontrowcrew.com. They can also be reported in-person if and when possible and appropriate.
 
-> *All reports will always remain completely anonymous.*
+    *All reports will always remain completely anonymous.*
 
 Corrective Action
 *****************
