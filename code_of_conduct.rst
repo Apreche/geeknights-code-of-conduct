@@ -123,14 +123,14 @@ Do not advocate for or encourage other people to engage in violent or immoral ac
 Do Not Endanger the Community or its Members
 ********************************************
 
-As a member of the community, a person's behavior reflects on all the other members. Any behavior that could put other community members, or the community itself, in danger is striclty prohibited. The most common example would be to do something that draws unwanted negative attention to the community or its members. 
+As a member of the community, a person's behavior reflects on all the other members. Any behavior that could put other community members, or the community itself, in danger is strictly prohibited. The most common example would be to do something that draws unwanted negative attention to the community or its members. 
 
     *We recognize that anything that violates this rule will also likely violate at least one of the other rules, e.g.: advocating immoral acts is also likely to endanger the community. That doesn't mean this rule is redundant. It exists to emphasize the extreme seriousness of acts that violate this rule as well as others.*
 
 Argument and Debate Must be Constructive
 ****************************************
 
-We recognize that arguments and debates are an unavoidable and necesasry part of any community. They can even be fun under the right circumstances. However, when they are not productive, they devolve into flamewars. If there is a debate, all contributors should take care to reference the following image:
+We recognize that arguments and debates are an unavoidable and necessary part of any community. They can even be fun under the right circumstances. However, when they are not productive, they devolve into flamewars. If there is a debate, all contributors should take care to reference the following image:
 
 .. image:: https://i.imgur.com/91pnuhY.png
 
