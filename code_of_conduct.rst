@@ -113,6 +113,7 @@ Any person who engages in any form of harassment against any other person is abs
 * Trolling or griefing of any kind
 * Publishing another person's private information (doxxing) without their consent
 * Any kind of bullying
+* Not stopping, or arguing, after being told that what they are saying is offensive.
 * Minor harassment such as annoying or pestering other people
 
 Do Not Advocate Violence or Other Immoral Acts
