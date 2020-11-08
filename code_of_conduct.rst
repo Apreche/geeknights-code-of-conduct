@@ -2,12 +2,6 @@
 GeekNights Community Code of Conduct
 ************************************
 
-Draft Status
-############
-
-This document is still in its draft form. It is currently in the process of being reveiewed, commented, and edited by community members and other affected parties. The code here does not formally take effect until such a time that it passes this draft phase. Even though the language here does not yet formally define acceptable conduct in our community, its general principles and spirit always apply.
-
-
 About This Document
 ###################
 
