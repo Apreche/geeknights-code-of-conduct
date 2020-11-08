@@ -101,6 +101,7 @@ Absolutely No Harassment
 Any person who engages in any form of harassment against any other person is absolute not welcome in our community spaces. This includes, but is not limited to:
 
 * Using unwelcome, uninclusive, or abusive language.
+* Using incorrect pronouns when referring to others (visible in user profiles).
 * Mental or physical assault
 * Sexual harassment
 * Sharing of content to intentionally make other people uncomforable
