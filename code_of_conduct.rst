@@ -45,12 +45,18 @@ The Code
 Engage with the Community
 *************************
 
-A person who wishes to participate in our spaces, must have an honest desire to be a member of the community. A person must exhibit behaviors such as actively listening and making meaningful contributions. For example: A person who only comes into the community space for the purpose of self promotion is not trying to actually trying to join it. 
+A person who wishes to participate in our spaces must have an honest desire to be a member of the community. A person must exhibit behaviors such as actively listening and making meaningful contributions. If someone only participates in the community in ways that benefit themselves, and offers little to nothing in service of others, they are not welcome.
+
+This includes not just blatant offenses like capitalist self promotion, but also other selfish behaviors like steering conversations towards being about themselves and their own interests. A person must be here for others if they expect others to be here for them.
 
 Always Engage in Good Faith
 ***************************
 
-All community engagement must be in good faith. This means that at no time should a person share information or promote ideas that they themselves do not honestly believe. Sarcasm and facetiousness is often lost from language, especially online in text form. That usually leads to misunderstandings, often harmful ones. A good community member exhibits honesty, only stating what they believe to be truthful to the best of their knowledge.
+All community engagement must be in good faith. This means that at no time should a person share information or promote ideas that they themselves do not honestly believe. It also means that a person should always be truthful in regards to their intent for participating.
+
+Everyone is permitted to remain as anonymous as they desire, need, or are able as the circumstances and technology allow in any particular space. However, when choosing to identify themselves, a person should do so truthfully. Impersonation or otherwise attempting to deceive others about ones own identity is an act of bad faith engagement.
+
+Sarcasm and facetiousness is often lost from language, especially online in text form. People often fail to convey or interpret sarcastic language, even in face to face conversation, resulting in misundrestandings. Those misunderstandings can often be harmful. That type of harmful sarcasm is explicitly prohibited by this code. Other forms of sarcastic language are still heavily discouraged and should only be used with appropriate caution.
 
 Do Not Share Dangerously Misleading Information
 ***********************************************
