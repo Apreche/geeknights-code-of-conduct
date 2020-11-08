@@ -28,6 +28,8 @@ Conduct Outside of GeekNights Community Spaces
 
 This code addresses the standard of behavior a person must adhere to if they wish to participate in the applicable community spaces. However, people will be held to that standard of behavior in all spaces, even outside of the community. For example, if someone is found to have engaged in harassment outside of our community space, that person is still a known harasser. They may no longer be welcome in our community, even though their code violation ocurred outside of our spaces.
 
+To report violations that occur outside of our spaces, please reference the Reporting selection below.
+
 Interaction With Third Party Codes of Conduct
 *********************************************
 
@@ -156,9 +158,11 @@ Enforcement
 Reporting
 *********
 
-Moderators and community leaders are always on the lookout for violations of this code. If they see any, they will take action accordingly. However, not everyone can be aware of everything. If any community member sees what they believe to be a violation of this code, please report it to community leadership. If the platform on which the violation ocurred has a reporting mechanism, please use it as appropriate. Otherwise, any code violations may be reported to us via email at codeofconduct@frontrowcrew.com. They can also be reported in-person if and when possible and appropriate.
+Moderators and community leaders are always on the lookout for violations of this code. If they see any, they will take action accordingly. However, not everyone can be aware of everything. If any community member sees what they believe to be a violation of this code, please report it to community leadership. If the violation took place outside of our spaces, please provide as much information and evidence as possible to help us make the best decisions.
 
-    *All reports will always remain completely anonymous.*
+If the platform on which the violation ocurred has a reporting mechanism, please make use of it. However, reports may be sent using any communication system that is available. GeekNights DMs are open on all platforms where we maintain a presence. We also accept reports via email at codeofconduct@frontrowcrew.com. We will even accept reports in private face to face conversations when possible and appropriate.
+
+    *To the best of our ability, all reports we receive will remain anonymous.*
 
 Corrective Action
 *****************
