@@ -114,7 +114,8 @@ There are too many evil ideologies in the world. Almost all of them have one thi
 * Islamophobia
 * etc...
 
-Membership in, or advocacy for any group or organization that espouses such evil ideologies is also strictly prohibited. This specifically includes the American Republican Party, all [SPLC designated hate groups](https://www.splcenter.org/fighting-hate/extremist-files/groups), and many others not listed here.
+Membership in, or advocacy for any group or organization that espouses such evil ideologies is also strictly prohibited. This specifically includes the American Republican Party, all `SPLC designated hate groups
+<https://www.splcenter.org/fighting-hate/extremist-files/groups>`_,  and many others not listed here.
 
 
 Do Not Send Traffic to Evil People
