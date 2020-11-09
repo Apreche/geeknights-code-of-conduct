@@ -48,6 +48,7 @@ A primary goal of GeekNights is to foster not just deeper, but also broader, int
 The spaces covered by this code of conduct are also the communities specifically tied to GeekNights. We want you to talk about the topics we talk about on the show. React to us. Correct us. Teach us. Respond to the words we say on the show and in our panels.
 
 Every time you post, consider if what you're posting serves these goals. Ask yourself these questions:
+
 * Am I sharing something interesting about my hobbies or interests?
 * Am I reacting to or commenting on a GeekNights episode or panel, or a topic specifically discussed in one?
 * Will someone else in the GeekNights community learn something interesting from what I've posted?
