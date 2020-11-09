@@ -38,6 +38,25 @@ Many of the places this code applies are third party platforms that have their o
 The Code
 ########
 
+Goals of the Community
+**********************
+
+The goals of the GeekNights community are similar to the goals of GeekNights itself.
+
+A primary goal of GeekNights is to foster not just deeper, but also broader, interests among our fans. We talk about the things we're interested in, and we hope to get you interested too. We want the anime fan to read some American comics and play some videogames. We want the Magic player to try an FPS or get into Opera. We want the Opera nerd to learn to solder. We want to hear about what you're interested in as well. Share your hobbies and nerderies with us, and with our broader community. The more we all share, the more interests we may all find!
+
+The spaces covered by this code of conduct are also the communities specifically tied to GeekNights. We want you to talk about the topics we talk about on the show. React to us. Correct us. Teach us. Respond to the words we say on the show and in our panels.
+
+Every time you post, consider if what you're posting serves these goals. Ask yourself these questions:
+* Am I sharing something interesting about my hobbies or interests?
+* Am I reacting to or commenting on a GeekNights episode or panel, or a topic specifically discussed in one?
+* Will someone else in the GeekNights community learn something interesting from what I've posted?
+* If I am arguing or disagreeing with someone, am I saying anything new, interesting, or constructive?
+* If I am correcting or otherwise calling someone else's post out, am I doing this in good faith with the goal of a continuing constructive conversation?
+
+If you can't honestly answer "yes" to at least one of these questions, you are probably not furthering the goals of this community.
+
+
 Engage with the Community
 *************************
 
@@ -122,7 +141,7 @@ Any person who engages in any form of harassment against any other person is abs
 Do Not Advocate Violence or Other Immoral Acts
 **********************************************
 
-Do not advocate for or encourage other people to engage in violent or immoral activities. Likewise, do not wish for specific harm to befall others, even if you believe they might deserve it. In keeping with the rule of always engaging in good faith, this should not be done, even in a facetious manner. Discussion of the merits of historical or fictional acts of violent or immoral nature are permitted within reason.
+Do not advocate for or encourage other people to engage in specific violent or immoral activities. Likewise, do not wish for specific harm to befall others, even if you believe they might deserve it. In keeping with the rule of always engaging in good faith, this should not be done, even in a facetious manner. Discussion of the merits of historical or fictional acts of violent or immoral nature are permitted within reason.
 
 
 Do Not Endanger the Community or its Members
