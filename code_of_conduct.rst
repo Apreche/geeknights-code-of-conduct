@@ -170,7 +170,7 @@ Some content that is permitted in our community may be potentially disturbing, t
 Spoilers
 ========
 
-Although there is some debate with regards to the nature of spoilers in media. However, that does not change the fact that spoiling a surprise for someone who did not ask for it is still rude and unwelcoming. Take care not intentionally or unintentionally reveal narrative surprises for anyone who does not want to know them.
+Although there is some debate with regards to the nature of spoilers in media, that does not change the fact that spoiling a surprise for someone who did not ask for it is still rude and unwelcoming. Take care not intentionally or unintentionally reveal narrative surprises for anyone who does not want to know them.
 
 
 Enforcement
