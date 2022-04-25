@@ -11,7 +11,7 @@ This document formally defines which behaviors are considered acceptable and/or 
 To Whom Does This Code Apply?
 *****************************
 
-This code of conduct applies to any people who wish to participate in any communty space that falls under the purview of GeekNights of the Front Row Crew. This includes spaces both on and offline. It also applies to any new community spaces that do not yet exist at the time this document comes into existence. For example, this code applies to, but is not limited to, the following spaces:
+This code of conduct applies to any people who wish to participate in any community space that falls under the purview of GeekNights of the Front Row Crew. This includes spaces both on and offline. It also applies to any new community spaces that do not yet exist at the time this document comes into existence. For example, this code applies to, but is not limited to, the following spaces:
 
 * `The GeekNights Community Forum <https://community.frontrowcrew.com/>`_
 * GeekNights Discord server
@@ -26,7 +26,7 @@ This code of conduct applies to any people who wish to participate in any commun
 Conduct Outside of GeekNights Community Spaces
 **********************************************
 
-This code addresses the standard of behavior a person must adhere to if they wish to participate in the applicable community spaces. However, people will be held to that standard of behavior in all spaces, even outside of the community. For example, if someone is found to have engaged in harassment outside of our community space, that person is still a known harasser. They may no longer be welcome in our community, even though their code violation ocurred outside of our spaces.
+This code addresses the standard of behavior a person must adhere to if they wish to participate in the applicable community spaces. However, people will be held to that standard of behavior in all spaces, even outside of the community. For example, if someone is found to have engaged in harassment outside of our community space, that person is still a known harasser. They may no longer be welcome in our community, even though their code violation occurred outside of our spaces.
 
 To report violations that occur outside of our spaces, please reference the Reporting selection below.
 
@@ -72,12 +72,12 @@ All community engagement must be in good faith. This means that at no time shoul
 
 Everyone is permitted to remain as anonymous as they desire, need, or are able as the circumstances and technology allow in any particular space. However, when choosing to identify themselves, a person should do so truthfully. Impersonation or otherwise attempting to deceive others about ones own identity is an act of bad faith engagement.
 
-Sarcasm and facetiousness is often lost from language, especially online in text form. People often fail to convey or interpret sarcastic language, even in face to face conversation, resulting in misundrestandings. Those misunderstandings can often be harmful. That type of harmful sarcasm is explicitly prohibited by this code. Other forms of sarcastic language are still heavily discouraged and should only be used with appropriate caution.
+Sarcasm and facetiousness is often lost from language, especially online in text form. People often fail to convey or interpret sarcastic language, even in face to face conversation, resulting in misunderstandings. Those misunderstandings can often be harmful. That type of harmful sarcasm is explicitly prohibited by this code. Other forms of sarcastic language are still heavily discouraged and should only be used with appropriate caution.
 
 Do Not Share Dangerously Misleading Information
 ***********************************************
 
-Some information can be dangerous, as it will affect the decisions made by other people who hear it and believe it. Those decisions could result in harm for them and others. In plain English, this means no fake news, fake medicine, or other assorted pseudoscience. We will not permit it to be shared in our spaces unless there is sufficient evidence from trusted sources to support its veracity. 
+Some information can be dangerous, as it will affect the decisions made by other people who hear it and believe it. Those decisions could result in harm for them and others. In plain English, this means no fake news, fake medicine, or other assorted pseudoscience. We will not permit it to be shared in our spaces unless there is sufficient evidence from trusted sources to support its veracity.
 
 Examples of dangerous pseudoscience include:
 
@@ -97,13 +97,13 @@ Examples of fake news include:
 
 * Deep Fakes
 * Altered Tweets
-* Unverified "News" 
+* Unverified "News"
 * Misleading Headlines / Buried Ledes
 * Conspiratorial Bullshit
 
 Do Not Espouse Evil Ideologies
 ******************************
-There are too many evil ideologies in the world. Almost all of them have one thing in common in that they do not respect the equal value of all human life. Any person who adheres to or promotes ideas that are in line with any of these belief systems, and others not listed, is absolutely unwelcome in our community. 
+There are too many evil ideologies in the world. Almost all of them have one thing in common in that they do not respect the equal value of all human life. Any person who adheres to or promotes ideas that are in line with any of these belief systems, and others not listed, is absolutely unwelcome in our community.
 
 * Racism
 * Fascism
@@ -133,7 +133,7 @@ Any person who engages in any form of harassment against any other person is abs
 * Using incorrect pronouns when referring to others (visible in user profiles).
 * Mental or physical assault
 * Sexual harassment
-* Sharing of content to intentionally make other people uncomforable
+* Sharing of content to intentionally make other people uncomfortable
 * Trolling or griefing of any kind
 * Publishing another person's private information (doxxing) without their consent
 * Any kind of bullying
@@ -149,7 +149,7 @@ Do not advocate for or encourage other people to engage in specific violent or i
 Do Not Endanger the Community or its Members
 ********************************************
 
-As a member of the community, a person's behavior reflects on all the other members. Any behavior that could put other community members, or the community itself, in danger is strictly prohibited. The most common example would be to do something that draws unwanted negative attention to the community or its members. 
+As a member of the community, a person's behavior reflects on all the other members. Any behavior that could put other community members, or the community itself, in danger is strictly prohibited. The most common example would be to do something that draws unwanted negative attention to the community or its members.
 
     *We recognize that anything that violates this rule will also likely violate at least one of the other rules, e.g.: advocating immoral acts is also likely to endanger the community. That doesn't mean this rule is redundant. It exists to emphasize the extreme seriousness of acts that violate this rule as well as others.*
 
@@ -181,16 +181,16 @@ Reporting
 
 Moderators and community leaders are always on the lookout for violations of this code. If they see any, they will take action accordingly. However, not everyone can be aware of everything. If any community member sees what they believe to be a violation of this code, please report it to community leadership. If the violation took place outside of our spaces, please provide as much information and evidence as possible to help us make the best decisions.
 
-If the platform on which the violation ocurred has a reporting mechanism, please make use of it. However, reports may be sent using any communication system that is available. GeekNights DMs are open on all platforms where we maintain a presence. We also accept reports via email at codeofconduct@frontrowcrew.com. We will even accept reports in private face to face conversations when possible and appropriate.
+If the platform on which the violation occurred has a reporting mechanism, please make use of it. However, reports may be sent using any communication system that is available. GeekNights DMs are open on all platforms where we maintain a presence. We also accept reports via email at codeofconduct@frontrowcrew.com. We will even accept reports in private face to face conversations when possible and appropriate.
 
     *To the best of our ability, all reports we receive will remain anonymous.*
 
 Corrective Action
 *****************
 
-All reports of conduct violations will be reviewed by community leadership. They will decide what action to take, if any, completely at their own discretion. The transparency of their decision making process will vary on a case-by-case basis. 
+All reports of conduct violations will be reviewed by community leadership. They will decide what action to take, if any, completely at their own discretion. The transparency of their decision making process will vary on a case-by-case basis.
 
-If it is determined that a violation of this code has occurred, the community leaderhip will take action against the member who committed the violation. Possible corrective actions could include, but are not limited to:
+If it is determined that a violation of this code has occurred, the community leadership will take action against the member who committed the violation. Possible corrective actions could include, but are not limited to:
 
 * Verbal or written warnings
 * Removal of offending content from relevant platforms
@@ -200,4 +200,4 @@ If it is determined that a violation of this code has occurred, the community le
 A Living Document
 #################
 
-This code of conduct is a living document. It may be modified by community leadership at any point in time. Community members are always encouraged to make suggestions for how to improve this code. Suggestions should be emailed to codeofconduct@frontrowcrew.com. 
+This code of conduct is a living document. It may be modified by community leadership at any point in time. Community members are always encouraged to make suggestions for how to improve this code. Suggestions should be emailed to codeofconduct@frontrowcrew.com.
